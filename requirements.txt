@@ -8,5 +8,6 @@ pypdf
 python-docx
 pysqlite3-binary
 sentence-transformers
+torchvision
 protobuf==3.20.*
 typing-extensions>=4.8.0
