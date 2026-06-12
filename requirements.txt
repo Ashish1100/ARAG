@@ -1,0 +1,9 @@
+streamlit
+langchain-huggingface
+huggingface_hub
+langchain-community
+langchain-text-splitters
+chromadb
+pypdf
+python-docx
+pysqlite3-binary
